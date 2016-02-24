@@ -33,8 +33,7 @@ lubridate
 <tr>
   <td>lme4</td>
   <td>http://cran.r-project.org/web/packages/lme4/</td>
-  <td>Douglas Bates, Martin</td>
-  <td>Maechler, and Ben Bolker</td>
+  <td>Douglas Bates, Martin, Maechler, and Ben Bolker</td>
   <td>Provides functions for creating linear and generalized mixed-effects models.</td>
 </tr>
 <tr>
