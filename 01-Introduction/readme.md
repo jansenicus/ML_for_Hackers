@@ -19,8 +19,8 @@ Install with 'install.packages("[package-name]")
 </tr>
 <tr>
   <td>glmnet</td>
-  <td>http://had.co.nz/ggplot2/ Jerome Friedman, Trevor</td>
-  <td>Hastie, and Rob Tibshirani</td>
+  <td>http://had.co.nz/ggplot2/</td>
+  <td>Jerome Friedman, Trevor, Hastie, and Rob Tibshirani</td>
   <td>Lasso and elastic-net regularized generalized linear models.</td>
 </tr>
 <tr>
