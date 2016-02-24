@@ -1,7 +1,6 @@
 R Packages used in Machine Learning for Hackers
 -------------------
-
-lubridate
+Install with 'install.packages("[package-name]")
 
 <table>
 <thead><td>Name </td><td>Location </td><td>Author(s)</td><td> Description and use</td></thead>
