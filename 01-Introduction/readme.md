@@ -19,7 +19,8 @@ lubridate
   <td>An implementation of the grammar of graphics in R. The premier package for creating highquality graphics.</td>
 </tr>
 <tr>
-  <td>glmnet http://had.co.nz/ggplot2/ Jerome Friedman, Trevor</td>
+  <td>glmnet</td>
+  <td>http://had.co.nz/ggplot2/ Jerome Friedman, Trevor</td>
   <td>Hastie, and Rob Tibshirani</td>
   <td>Lasso and elastic-net regularized generalized linear models.</td>
 </tr>
@@ -37,19 +38,22 @@ lubridate
   <td>Provides functions for creating linear and generalized mixed-effects models.</td>
 </tr>
 <tr>
-  <td>lubridate https://github.com/hadley/</td>
+  <td>lubridate</td>
+  <td>https://github.com/hadley/</td>
   <td>lubridate</td>
   <td>Hadley Wickham Provides convenience function to making working with dates in R easier.</td>
 </tr>
 <tr>
   <td>RCurl</td>
   <td>http://www.omegahat.org/RCurl/</td>
-  <td>Duncan Temple Lang Provides an R interface to the libcurl library for interacting with the HTTP protocol. Used to import raw data from the Web.</td>
+  <td>Duncan Temple Lang</td>
+  <td>Provides an R interface to the libcurl library for interacting with the HTTP protocol. Used to import raw data from the Web.</td>
 </tr>
 <tr>
-<td>reshape</td>
+  <td>reshape</td>
   <td>http://had.co.nz/plyr/</td>
-  <td>Hadley Wickham A set of tools used to manipulate, aggregate, and manage data in R.</td>
+  <td>Hadley Wickham</td>
+  </td>A set of tools used to manipulate, aggregate, and manage data in R.</td>
 </tr>
 <tr>
   <td>RJSONIO</td>
