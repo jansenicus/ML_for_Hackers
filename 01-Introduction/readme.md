@@ -51,7 +51,7 @@ Install with 'install.packages("[package-name]")
   <td>reshape</td>
   <td>http://had.co.nz/plyr/</td>
   <td>Hadley Wickham</td>
-  </td>A set of tools used to manipulate, aggregate, and manage data in R.</td>
+  <td>A set of tools used to manipulate, aggregate, and manage data in R.</td>
 </tr>
 <tr>
   <td>RJSONIO</td>
